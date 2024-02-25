@@ -1,3 +1,3 @@
 # Sharon Portfolio 
 
-Hello Everyone, this is my personal portfilio which showcase coding projects I have completed. 
+Hello Everyone! Welcome to my personal portfolio page, which showcasing my introduction and different projects I've had the pleasure of participating in. 
